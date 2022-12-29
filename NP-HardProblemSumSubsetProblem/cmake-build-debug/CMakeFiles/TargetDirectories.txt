@@ -1,0 +1,3 @@
+/Users/devamshah/CLionProjects/project6NEW/cmake-build-debug/CMakeFiles/project6NEW.dir
+/Users/devamshah/CLionProjects/project6NEW/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/devamshah/CLionProjects/project6NEW/cmake-build-debug/CMakeFiles/rebuild_cache.dir
